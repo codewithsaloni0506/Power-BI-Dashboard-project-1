@@ -1,7 +1,5 @@
 # Data Jobs Dashboard with Power BI
 
-![Dashboard image 1](/images/Data%20jobs%20dashboard.png)
-
 ## Introduction
 Built for **job seekers and career switchers** who want a clear picture of the data job market. Using a dataset of 2024 data job postings (titles, salaries, locations, perks), this dashboard answers: **Which roles are in demand, what do they pay, and where are the jobs?**
 
